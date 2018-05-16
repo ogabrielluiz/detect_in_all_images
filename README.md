@@ -4,4 +4,10 @@ Disclaimer: This is for educational purposes only. This is my first try at face 
 
 Just run the detect_in_all_images.py file and it will detect faces in /images folder. You should create it, if not it will create it for you on the first run.
 
+This was made using Python 3.6.
+Necessary packages:
+OpenCV 3.4.1
+Numpy 1.14.3
+
+
 
